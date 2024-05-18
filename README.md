@@ -51,4 +51,5 @@ Based only on serum creatinine and ejection fraction, we will be able to forecas
 <b>Classification - Loss Function: Binary_crossentropy : </b>
 ![alt text](media/image4.png)</br>
 
-
+## Contribution
+To contribute, fork the repo and make changes then upload the changes with pull request.
