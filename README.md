@@ -8,11 +8,11 @@ Cardiovascular diseases (CVDs) are the number 1 cause of death globally, taking 
 
 Heart failure is a common event caused by CVDs and this dataset contains 12 features that can be used to predict mortality by heart failure.
 
-Most cardiovascular diseases can be prevented by addressing behavioural risk factors such as tobacco use, unhealthy diet and obesity, physical inactivity and harmful use of alcohol using population-wide strategies.
+By utilizing population-wide methods to address behavioral risk factors like tobacco use, unhealthy food and obesity, physical inactivity, and harmful alcohol consumption, most cardiovascular diseases can be averted.
 
-People with cardiovascular disease or who are at high cardiovascular risk need early detection and management wherein a ML or DL model can be of great help.
+A ML or DL model can be very helpful in the early detection and management of cardiovascular disease or high-risk individuals.
 
-We will predict the survival of patients with heart failure from serum creatinine and ejection fraction alone. For that our aim is:
+Based only on serum creatinine and ejection fraction, we will be able to forecast the survival of individuals suffering from heart failure. For that, our goal is:
 
 - To classify / predict whether a patient is prone to heart failure depending on multiple attributes.
 - It is a binary classification with multiple numerical and categorical features.
