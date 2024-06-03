@@ -52,4 +52,10 @@ Based only on serum creatinine and ejection fraction, we will be able to forecas
 ![alt text](media/image4.png)</br>
 
 ## Contribution
-To contribute, fork the repo and make changes then upload the changes with pull request.
+Follow these guidelines:
+
+- Fork the repository.
+- Create a new branch for your feature or bug fix.
+- Commit your changes.
+- Submit a pull request.
+
